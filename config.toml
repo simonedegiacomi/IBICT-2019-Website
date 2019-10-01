@@ -1,0 +1,46 @@
+baseurl = "/"
+title = "IBICT 2019"
+author = "Daniel Zaragoza (Danielkvist)"
+googleAnalytics = ""
+defaultContentLanguage = "en"
+language = "en-US"
+paginate = 3
+
+theme = "terrassa"
+
+[params]
+    description = "Website of the course, containing the slides, notes, videos and photos of the lectures"
+    favicon = "favicon.ico"
+    logo = ""
+
+[params.hero]
+    textColor = "black"
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Join channel"
+    link = "contact" # Relative URL
+
+[params.separator] # Separators between sections on the home page
+    show = false
+
+[params.fa] # Font Awesome options
+    version = "5.7.2"
+    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.social]
+
+[params.contact] # Contact info
+    email = "example@gmail.com"
+    phone = "xxx xxx xxx"
+    skype = ""
+    address = "419 Creek St. Revere, MA 02151"
+
+[params.copy] # Copyright
+    copy = "" # Empty for default content

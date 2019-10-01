@@ -1,0 +1,19 @@
+<div class="lesson-links">
+	{{ if .Get "slides" }}
+		<a href="{{ .Get `slides` }}">Slides</a>
+	{{ end }}
+
+	{{ if .Get "photos" }}
+		<a href="{{ .Get `photos` }}">Photos</a>
+	{{ end }}
+
+	{{ if .Get "notes" }}
+		<a href="{{ .Get `notes` }}">Notes</a>
+	{{ end }}
+
+	{{ if .Get "video" }}
+		<a href="{{ .Get `video` }}">Video</a>
+	{{ end }}
+</div>
+
+

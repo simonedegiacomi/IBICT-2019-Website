@@ -1,0 +1,66 @@
+/* Home page */
+main.hero {
+	background-image: url('http://localhost:1313/images/main-background.png');
+	background-size: cover;
+}
+/* End of home page */
+
+/* Lesson short code */
+div.lesson-links {
+	display: flex;
+}
+
+div.lesson-links > a {
+	color: white;
+	font-weight: bold;
+	background-color: #FFA000;
+	padding: .5em;
+	margin-right: .5em;
+	border-radius: 3px;
+}
+
+/* End of lesson short code */
+
+
+/* Footer */
+footer.footer {
+	display: flex;
+	flex-direction: column;
+	color: white;
+}
+
+footer.footer h3 {
+	margin-top: 2em;
+	text-align: center;
+}
+
+footer div.contacts {
+	display: flex;
+	justify-content: center;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	color: lightgray;
+}
+
+div.contacts > div {
+	margin: 0 1em 1.5em 1em;
+	justify-content: center;
+}
+
+div.students-contacts {
+	text-align: right;
+}
+
+
+div.bottom-footer {
+	background-color: #d58500;
+	text-align: center;
+	padding: 1em;
+}
+
+/* End of footer */

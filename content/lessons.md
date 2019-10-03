@@ -6,14 +6,18 @@ menu: main
 weight: 1
 ---
 
-## 1 Ottobre
+{{< lesson 
+	title="7 October"
+	description="Brief description of the lesson"
+	slides="404.html"
+	notes="404.html"
+	video="404.html"
+	photos="404.html" >}}
 
-IBICT course introduction and roles pitch with Massimiliano Luca and ???
-
-{{< lesson slides="http://www.google.it" notes="" video="" photos="http://www.google.it" >}}
-
-## 25 September
-
-IBICT course introduction and roles pitch with Massimiliano Luca and ???
-
-{{< lesson slides="http://www.google.it" notes="" video="" photos="http://www.google.it" >}}
+{{< lesson 
+	title="25 September"
+	description="IBICT course introduction and roles pitch"
+	slides="404.html"
+	notes="404.html"
+	video="404.html"
+	photos="404.html" >}}

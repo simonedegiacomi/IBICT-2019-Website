@@ -1,22 +1,65 @@
+:root {
+	--primary-color: #FFA000;
+}
+
+/* Navbar */
+#hamburgerToggle {
+	cursor: pointer;
+}
+
+li.hamburger__items__item {
+	margin-left: 1em;
+}
+/* End of navbar */
+
 /* Home page */
 main.hero {
-	background-image: url('http://localhost:1313/images/main-background.png');
 	background-size: cover;
 }
 /* End of home page */
 
-/* Lesson short code */
+/* Lesson and announcement short code */
+div.lesson,
+div.announcement {
+	margin: 1em;
+	padding-bottom: 1em;
+	border-bottom: 5px var(--primary-color) solid;
+}
+
+@media only screen and (max-width: 576px) {
+	div.lesson {
+		margin: 0;
+	}
+}
+
+div.lesson:last-child,
+div.announcement:last-child {
+	border-bottom: none;
+}
+
 div.lesson-links {
 	display: flex;
+	flex-wrap: wrap;
 }
 
 div.lesson-links > a {
+	display: inline-block;
+	flex: 1 1 0;
+
 	color: white;
 	font-weight: bold;
-	background-color: #FFA000;
-	padding: .5em;
+	background-color: var(--primary-color);
+	text-align: center;
+
+	padding: .5em 1.5em;
 	margin-right: .5em;
-	border-radius: 3px;
+	margin-bottom: .5em;
+	border-radius: 5px;
+}
+
+div.announcement span.date {
+	color: lightslategrey;
+	font-style: italic;
 }
 
 /* End of lesson short code */

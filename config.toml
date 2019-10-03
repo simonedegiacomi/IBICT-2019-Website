@@ -10,7 +10,6 @@ theme = "terrassa"
 
 [params]
     description = "Website of the course, containing the slides, notes, videos and photos of the lectures"
-    favicon = "favicon.ico"
     logo = ""
 
 [params.hero]
@@ -19,7 +18,7 @@ theme = "terrassa"
 [params.cta] # Call To Action 
     show = true
     cta = "Join channel"
-    link = "contact" # Relative URL
+    link = "https://t.me/ibict2019"
 
 [params.separator] # Separators between sections on the home page
     show = false

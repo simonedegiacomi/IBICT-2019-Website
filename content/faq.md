@@ -10,11 +10,5 @@ menu: main
 weight: 4
 ---
 
-
-For any doubts/questions/critics of the course, not working website/links/publications write to the Housekeepr (Diego Tormen):
-
-Telegram: t.me/CptVirus
-Mail: diego.tormen@studenti.unitn.it
-
-Please if you send an email to Diego write in the object [IBICT 2018 student]
+For any doubts/questions/critics contact the Housekeeper () and for problems with the website contact the Webmaster (Simone Degiacomi).
 

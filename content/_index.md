@@ -1,6 +1,7 @@
 ---
 title: "Home"
 description: "Website of the course with the slides, notes, videos and photos of the lectures"
+images: ["main-background.png"]
 draft: false
 ---
 

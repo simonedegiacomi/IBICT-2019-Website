@@ -10,6 +10,8 @@ menu: main
 weight: 2
 ---
 
-## No lessons next week
 
-29 September and 1 October there will be no lessons.
+{{< announcement 
+	title="No lessons next week"
+	date="25 september"
+	text="29 September and 1 October there will be no lessons." >}}

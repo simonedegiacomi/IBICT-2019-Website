@@ -1,0 +1,7 @@
+<?php
+    define('GH_DEPLOY_SECRET', '');
+
+	define('LOG_FILE', '');
+    define('REPOSITORY_DIR', '');
+	define('HUGO_PATH', '');
+?>

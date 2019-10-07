@@ -107,3 +107,81 @@ div.bottom-footer {
 }
 
 /* End of footer */
+
+/* Exam points */
+
+div.exam-points {
+	--battleReportColor: #94C11A;
+	--battlePerformanceColor: #EA5055;
+	--writtenExamColor: #009EE3;
+	--rolesColor: #F39100;
+}
+
+div.exam-points div.points-block-container {
+	display: flex;
+
+	margin: 0 -.5em; /* accounts for margin: .5em in points-block*/
+}
+
+div.exam-points div.points-block {
+	padding: 1em;
+	margin: .5em;
+
+	text-align: center;
+	border-radius: 5px;
+
+	color: white;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+div.points-block.battle-report {
+	flex: 15;
+	background-color: var(--battleReportColor);
+}
+
+div.points-block.battle-performance {
+	flex: 4;
+	background-color: var(--battlePerformanceColor);
+}
+
+div.points-block.written-exam {
+	flex: 15;
+	background-color: var(--writtenExamColor);
+}
+
+div.points-block.roles {
+	flex: 3;
+	background-color: var(--rolesColor);
+}
+
+
+div.points-explaining {
+	margin-top: 1em;
+}
+
+div.points-explaining p {
+	border-left: 5px solid;
+	padding-left: .5em;
+}
+
+
+div.points-explaining p.battle-report {
+	border-left-color: var(--battleReportColor);
+}
+
+div.points-explaining p.battle-performance {
+	border-left-color: var(--battlePerformanceColor);
+}
+
+div.points-explaining p.written-exam {
+	border-left-color: var(--writtenExamColor);
+}
+
+
+div.points-explaining p.roles {
+	border-left-color: var(--rolesColor);
+}
+
+
+/* End of exam points */

@@ -10,5 +10,5 @@ menu: main
 weight: 4
 ---
 
-For any doubts/questions/critics contact the Housekeeper () and for problems with the website contact the Webmaster (Simone Degiacomi).
+For any doubts/questions/critics contact the Housekeeper (Kes Greuter) and for problems with the website contact the Webmaster (Simone Degiacomi).
 

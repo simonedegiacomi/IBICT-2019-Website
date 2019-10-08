@@ -9,5 +9,16 @@ weight: 1
 # Lessons
 
 {{< lesson 
-	title="7 October"
-	description="Attachments not available yet" >}}
+	title="Introduction to Battles"
+	date="7 October 2019"
+	slides="pdfs/02-Introduction-to-Battles.pdf" >}}
+
+{{< lesson 
+	title="Introduction and Roles"
+	date="25 Semptember 2019"
+	slides="pdfs/01-Introduction-and-roles.pdf" >}}
+
+{{< lesson 
+	title="Welcome"
+	date="18 September 2019"
+	slides="pdfs/00-Welcome.pdf" >}}

@@ -38,6 +38,7 @@ a.cta__btn {
 div.lesson,
 div.announcement {
 	margin: 1em;
+	margin-bottom: 2em;
 	padding-bottom: 1em;
 	border-bottom: 5px var(--primary-color) solid;
 }
@@ -73,7 +74,8 @@ div.lesson-links > a {
 	border-radius: 5px;
 }
 
-div.announcement span.date {
+div.announcement span.date,
+div.lesson span.date {
 	color: lightslategrey;
 	font-style: italic;
 }

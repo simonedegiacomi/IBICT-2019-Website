@@ -10,6 +10,7 @@ menu: main
 weight: 2
 ---
 
+# Announcements
 
 {{< announcement 
 	title="No lessons next week"

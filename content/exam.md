@@ -7,4 +7,5 @@ menu: main
 weight: 3
 ---
 
+# Exam 
 {{< exam-points >}}

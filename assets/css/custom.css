@@ -15,7 +15,23 @@ li.hamburger__items__item {
 /* Home page */
 main.hero {
 	background-size: cover;
+	min-height: 80vh;
+	height: initial;
 }
+
+a.cta__btn {
+	margin-top: 1.5rem;
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 576px) {
+	a.cta__btn {
+		width: 100%;
+		text-align: center;
+	}
+}
+
 /* End of home page */
 
 /* Lesson and announcement short code */
@@ -75,6 +91,7 @@ footer.footer {
 footer.footer h3 {
 	margin-top: 2em;
 	text-align: center;
+	font-size: 1.5rem;
 }
 
 footer div.contacts {

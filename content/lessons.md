@@ -12,7 +12,7 @@ weight: 1
 	title="Skills"
 	date="9 October 2019"
 	federico-notes="notes/federico_10_09.pdf"
-	video="https://www.youtube.com/watch?v=yCTMpxLP-38"
+	video="https://www.youtube.com/watch?v=p41UKuKwt1o"
 	>}}
 
 {{< lesson 

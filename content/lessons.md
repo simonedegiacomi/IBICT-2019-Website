@@ -9,10 +9,17 @@ weight: 1
 # Lessons
 
 {{< lesson 
+	title="???"
+	date="9 October 2019"
+	federico-notes="notes/federico_10_09.pdf"
+	>}}
+
+{{< lesson 
 	title="Introduction to Battles"
 	date="7 October 2019"
 	slides="slides/02-Introduction-to-Battles.pdf"
 	georgiana-notes="notes/Bud_IBICT_L3-L1_as_notekeeper.pdf"
+	federico-notes="notes/federico_10_07.pdf"
 	video="https://www.youtube.com/watch?v=GAPFpCKG7do#action=share" >}}
 
 {{< lesson 

@@ -12,7 +12,7 @@
 		{{ end }}
 
 		{{ if .Get "federico-notes" }}
-			<a target="_blank" href="{{ .Get `federico-notes` }}">Federico's Notes</a>
+			<a target="_blank" href="{{ $.Site.BaseURL }}{{ .Get `federico-notes` }}">Federico's Notes</a>
 		{{ end }}
 
 		{{ if .Get "georgiana-notes" }}

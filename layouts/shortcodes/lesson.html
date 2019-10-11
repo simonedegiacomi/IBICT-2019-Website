@@ -4,19 +4,23 @@
 	<p>{{ .Get "description" }}</p>
 	<div class="lesson-links">
 		{{ if .Get "slides" }}
-			<a href="{{ $.Site.BaseURL }}{{ .Get `slides` }}">Slides</a>
+			<a target="_blank" href="{{ $.Site.BaseURL }}{{ .Get `slides` }}">Slides</a>
 		{{ end }}
 
 		{{ if .Get "photos" }}
-			<a href="{{ $.Site.BaseURL }}{{ .Get `photos` }}">Photos</a>
+			<a target="_blank" href="{{ $.Site.BaseURL }}{{ .Get `photos` }}">Photos</a>
 		{{ end }}
 
-		{{ if .Get "notes" }}
-			<a href="{{ $.Site.BaseURL }}{{ .Get `notes` }}">Notes</a>
+		{{ if .Get "federico-notes" }}
+			<a target="_blank" href="{{ .Get `federico-notes` }}">Federico's Notes</a>
+		{{ end }}
+
+		{{ if .Get "georgiana-notes" }}
+			<a target="_blank" href="{{ $.Site.BaseURL }}{{ .Get `georgiana-notes` }}">Georgiana's Notes</a>
 		{{ end }}
 
 		{{ if .Get "video" }}
-			<a href="{{ $.Site.BaseURL }}{{ .Get `video` }}">Video</a>
+			<a target="_blank" href="{{ .Get `video` }}">Video</a>
 		{{ end }}
 	</div>
 </div>

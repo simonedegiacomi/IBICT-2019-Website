@@ -60,7 +60,10 @@ div.lesson-links {
 }
 
 div.lesson-links > a {
-	display: inline-block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
 	flex: 1 1 0;
 
 	color: white;

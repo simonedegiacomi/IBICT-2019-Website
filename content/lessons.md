@@ -11,14 +11,16 @@ weight: 1
 {{< lesson 
 	title="Introduction to Battles"
 	date="7 October 2019"
-	slides="pdfs/02-Introduction-to-Battles.pdf" >}}
+	slides="slides/02-Introduction-to-Battles.pdf"
+	georgiana-notes="notes/Bud_IBICT_L3-L1_as_notekeeper.pdf"
+	video="https://www.youtube.com/watch?v=GAPFpCKG7do#action=share" >}}
 
 {{< lesson 
 	title="Introduction and Roles"
 	date="25 Semptember 2019"
-	slides="pdfs/01-Introduction-and-roles.pdf" >}}
+	slides="slides/01-Introduction-and-roles.pdf" >}}
 
 {{< lesson 
 	title="Welcome"
 	date="18 September 2019"
-	slides="pdfs/00-Welcome.pdf" >}}
+	slides="slides/00-Welcome.pdf" >}}

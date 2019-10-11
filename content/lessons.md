@@ -9,9 +9,10 @@ weight: 1
 # Lessons
 
 {{< lesson 
-	title="???"
+	title="Skills"
 	date="9 October 2019"
 	federico-notes="notes/federico_10_09.pdf"
+	video="https://www.youtube.com/watch?v=yCTMpxLP-38"
 	>}}
 
 {{< lesson 

@@ -99,6 +99,30 @@ footer.footer h3 {
 	font-size: 1.5rem;
 }
 
+footer div.footer-sections {
+	display: flex;
+}
+
+@media only screen and (max-width: 576px) {
+	footer div.footer-sections {
+		flex-direction: column;
+	}
+}
+
+div.announcements-section {
+	background-color: #de8b00;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+div.announcements-section,
+div.contacts-section {
+	flex: 1;
+	padding-bottom: 1em;
+}
+
 footer div.contacts {
 	display: flex;
 	justify-content: center;
@@ -127,6 +151,15 @@ div.bottom-footer {
 	text-align: center;
 	padding: 1em;
 }
+
+div.latest-announcements h1 {
+	display: none;
+}
+
+div.latest-announcements span.date {
+	color: white;
+}
+
 
 /* End of footer */
 

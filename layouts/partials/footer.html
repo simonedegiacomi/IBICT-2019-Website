@@ -17,17 +17,20 @@
             </div>
         </div>
 
-        <div class="announcements-section">
-            <h3>Latest annoucements</h3>
-            
-            <div class="latest-announcements">
-                {{ range where .Pages "Title" "Announcements" }}
-                    {{ .Content }}
-                {{ end }}
-            </div>
 
-            <a class="view-announcements" href="{{ $.Site.BaseURL }}/announcements">View announcements</a>
-        </div>
+        {{ if eq .Title "Home" }}
+            <div class="announcements-section">
+                <h3>Latest annoucements</h3>
+                
+                <div class="latest-announcements">
+                    {{ range where .Pages "Title" "Announcements" }}
+                        {{ .Content }}
+                    {{ end }}
+                </div>
+
+                <a class="view-announcements" href="{{ $.Site.BaseURL }}/announcements">View announcements</a>
+            </div>
+        {{ end }}
     </div>
 
     <div class="bottom-footer">

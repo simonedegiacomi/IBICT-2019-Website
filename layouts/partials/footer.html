@@ -1,18 +1,32 @@
 <footer class="footer">
-    <div>
-        <h3>Contacts</h3>
-        <div class="contacts">
-            <div class="students-contacts">
-                <h4>Students</h4>
-                <a href="mailto:kesolga.greuter@studenti.unitn.it">Housekeeper</a><br>
-                <a href="mailto:simone.degiacomi@studenti.unitn.it">Webmaster</a><br>
+    <div class="footer-sections">
+        <div class="contacts-section">
+            <h3>Contacts</h3>
+            <div class="contacts">
+                <div class="students-contacts">
+                    <h4>Students</h4>
+                    <a href="mailto:kesolga.greuter@studenti.unitn.it">Housekeeper</a><br>
+                    <a href="mailto:simone.degiacomi@studenti.unitn.it">Webmaster</a><br>
+                </div>
+                <div >
+                    <h4>Teachers</h4>
+                    <a href="mailto:massimiliano.luca@unitn.it">Massimiliano Luca</a><br>
+                    <a href="mailto:lorenzo.angeli@unitn.it">Lorenzo Angeli</a><br>
+                    <a href="mailto:andrea.guarise@trentinoinnovation.eu">Andrea Guarise</a>
+                </div>
             </div>
-            <div >
-                <h4>Teachers</h4>
-                <a href="mailto:massimiliano.luca@unitn.it">Massimiliano Luca</a><br>
-                <a href="mailto:lorenzo.angeli@unitn.it">Lorenzo Angeli</a><br>
-                <a href="mailto:andrea.guarise@trentinoinnovation.eu">Andrea Guarise</a>
+        </div>
+
+        <div class="announcements-section">
+            <h3>Latest annoucements</h3>
+            
+            <div class="latest-announcements">
+                {{ range where .Pages "Title" "Announcements" }}
+                    {{ .Content }}
+                {{ end }}
             </div>
+
+            <a class="view-announcements" href="{{ $.Site.BaseURL }}/announcements">View announcements</a>
         </div>
     </div>
 

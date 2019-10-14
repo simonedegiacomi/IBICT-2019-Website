@@ -137,6 +137,10 @@ div.exam-points {
 	--battlePerformanceColor: #EA5055;
 	--writtenExamColor: #009EE3;
 	--rolesColor: #F39100;
+
+	--notAttendingCaseStudy: #94C11A;
+	--notAttendingWrittenExam: #EA5055;
+	--notAttendingOralExam: #009EE3;
 }
 
 div.exam-points div.points-block-container {
@@ -177,6 +181,19 @@ div.points-block.roles {
 	background-color: var(--rolesColor);
 }
 
+div.not-attending-case-study{
+	flex: 20;
+	background-color: var(--notAttendingCaseStudy);
+}
+div.not-attending-written-exam{
+	flex: 10;
+	background-color: var(--notAttendingWrittenExam);
+}
+div.not-attending-oral-exam{
+	flex: 5;
+	background-color: var(--notAttendingOralExam);
+}
+
 
 div.points-explaining {
 	margin-top: 1em;
@@ -205,5 +222,15 @@ div.points-explaining p.roles {
 	border-left-color: var(--rolesColor);
 }
 
+
+div.points-explaining p.not-attending-case-study{
+	border-left-color: var(--notAttendingCaseStudy);
+}
+div.points-explaining p.not-attending-written-exam{
+	border-left-color: var(--notAttendingWrittenExam);
+}
+div.points-explaining p.not-attending-oral-exam{
+	border-left-color: var(--notAttendingOralExam);
+}
 
 /* End of exam points */

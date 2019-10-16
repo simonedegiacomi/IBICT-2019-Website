@@ -7,7 +7,7 @@ images: []
 draft: false
 tags: []
 menu: main
-weight: 2
+weight: 3
 ---
 
 # Announcements

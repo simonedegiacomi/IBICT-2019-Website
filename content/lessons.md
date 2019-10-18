@@ -12,6 +12,8 @@ weight: 1
 	title="Organizations"
 	date="16 October 2019"
 	georgiana-notes="notes/Bud_IBICT_16-10.pdf"
+	slides="slides/05-[IBICT2019]-Organizations.pdf"
+	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560932&cid=B85F9287B2607C74"
 	>}}
 
 {{< lesson 
@@ -19,15 +21,17 @@ weight: 1
 	date="14 October 2019"
 	georgiana-notes="notes/Bud_IBICT_14-10.pdf"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560870&cid=B85F9287B2607C74"
+	slides="slides/04-[IEB-IBICT2019]-Tech-Entrepreneurship.pdf"
 	>}}
 
 {{< lesson 
-	title="Skills"
+	title="Innovation Skills"
 	date="9 October 2019"
 	federico-notes="notes/federico_10_09.pdf"
 	georgiana-notes="notes/Bud_IBICT_09-10.pdf"
 	video="https://www.youtube.com/watch?v=p41UKuKwt1o"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560869&cid=B85F9287B2607C74"
+	slides="slides/03-[IEB-IBICT2019]-Innovation-Skills.pdf"
 	>}}
 
 {{< lesson 

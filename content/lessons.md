@@ -8,6 +8,14 @@ weight: 1
 
 # Lessons
 
+
+{{< lesson 
+	title="Business Modelling"
+	date="21 October 2019"
+	slides="slides/06-[IBICT2019]-Business-Modelling.pdf"
+	>}}
+
+
 {{< lesson 
 	title="Organizations"
 	date="16 October 2019"

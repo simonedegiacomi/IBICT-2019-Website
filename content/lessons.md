@@ -30,6 +30,7 @@ weight: 1
 	georgiana-notes="notes/Bud_IBICT_14-10.pdf"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560870&cid=B85F9287B2607C74"
 	slides="slides/04-[IEB-IBICT2019]-Tech-Entrepreneurship.pdf"
+	federico-notes="notes/federico_10_14.pdf"
 	>}}
 
 {{< lesson 

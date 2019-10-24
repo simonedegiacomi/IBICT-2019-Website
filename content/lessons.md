@@ -22,6 +22,7 @@ weight: 1
 	georgiana-notes="notes/Bud_IBICT_16-10.pdf"
 	slides="slides/05-[IBICT2019]-Organizations.pdf"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560932&cid=B85F9287B2607C74"
+	federico-notes="notes/federico_10_16.pdf"
 	>}}
 
 {{< lesson 

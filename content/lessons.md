@@ -13,6 +13,7 @@ weight: 1
 	title="Business Modelling"
 	date="21 October 2019"
 	slides="slides/06-[IBICT2019]-Business-Modelling.pdf"
+	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561033&cid=B85F9287B2607C74"
 	>}}
 
 

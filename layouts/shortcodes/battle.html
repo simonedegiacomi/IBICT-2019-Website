@@ -1,0 +1,32 @@
+<div class="battle">
+	{{ $battleResources := printf "%sbattles/%s/" ($.Site.BaseURL) (.Get "number") }}
+
+	<h2>Battle {{ .Get "number" }} - {{ .Get "title" }}</h2>
+	<span class="date">{{ .Get "date" }}</span>
+	<p>{{ .Get "description" }}</p>
+	<div class="battle-links">
+		{{ if .Get "first-team-slides" }}
+			<a target="_blank" href="{{$battleResources}}{{ .Get `first-team-slides` }}">{{ .Get "first-team" }}</a>
+		{{ end }}
+
+		{{ if .Get "second-team-slides" }}
+			<a target="_blank" href="{{$battleResources}}{{ .Get `second-team-slides` }}">{{ .Get "second-team" }}</a>
+		{{ end }}
+
+		{{ if .Get "photos" }}
+			<a target="_blank" href="{{ .Get `photos` }}">Photos</a>
+		{{ end }}
+
+		{{ if .Get "federico-notes" }}
+			<a target="_blank" href="{{$battleResources}}{{ .Get `federico-notes` }}">Federico's Notes</a>
+		{{ end }}
+
+		{{ if .Get "georgiana-notes" }}
+			<a target="_blank" href="{{$battleResources}}{{ .Get `georgiana-notes` }}">Georgiana's Notes</a>
+		{{ end }}
+
+		{{ if .Get "video" }}
+			<a target="_blank" href="{{ .Get `video` }}">Video</a>
+		{{ end }}
+	</div>
+</div>

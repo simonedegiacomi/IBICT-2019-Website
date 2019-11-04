@@ -36,7 +36,8 @@ a.cta__btn {
 
 /* Lesson and announcement short code */
 div.lesson,
-div.announcement {
+div.announcement,
+div.battle {
 	margin: 1em;
 	margin-bottom: 2em;
 	padding-bottom: 1em;
@@ -54,12 +55,14 @@ div.announcement:last-child {
 	border-bottom: none;
 }
 
-div.lesson-links {
+div.lesson-links,
+div.battle-links {
 	display: flex;
 	flex-wrap: wrap;
 }
 
-div.lesson-links > a {
+div.lesson-links > a,
+div.battle-links > a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -71,14 +74,15 @@ div.lesson-links > a {
 	background-color: var(--primary-color);
 	text-align: center;
 
-	padding: .5em 1.5em;
+	padding: .5em;
 	margin-right: .5em;
 	margin-bottom: .5em;
 	border-radius: 5px;
 }
 
 div.announcement span.date,
-div.lesson span.date {
+div.lesson span.date,
+div.battle span.date {
 	color: lightslategrey;
 	font-style: italic;
 }

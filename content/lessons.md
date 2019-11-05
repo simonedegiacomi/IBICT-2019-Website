@@ -10,10 +10,12 @@ weight: 1
 
 
 {{< lesson
-	title="Lesson 7 - Epistemology"
+	title="Lesson 7 - Epistemology of CS"
 	date="30 October 2019"
 	slides="slides/07-[IBICT2019]-Epistemology-of-CS.pdf"
 	georgiana-notes="notes/Bud_IBICT_30-10.pdf"
+	federico-notes="notes/federico_10_30.pdf"
+	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561150&cid=B85F9287B2607C74"
 	>}}
 
 {{< lesson 

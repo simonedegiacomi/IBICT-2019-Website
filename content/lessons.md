@@ -25,6 +25,7 @@ weight: 1
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561033&cid=B85F9287B2607C74"
 	federico-notes="notes/federico_10_21.pdf"
 	georgiana-notes="notes/Bud_IBICT_21-10.pdf"
+	video="https://www.youtube.com/watch?v=WgFWWrRTdJo"
 	>}}
 
 {{< lesson 

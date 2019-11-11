@@ -1,0 +1,19 @@
+<div class="readings {{ .Get 0 }}">	
+	<label>
+		<input type="checkbox" hidden>
+		<div class="header-and-links">
+			<h5>
+				{{ if eq (.Get 0) "mandatory" }}
+				Mandatory
+				{{ else }}
+				Suggested
+				{{ end }}
+				Readings
+			</h5>
+
+			<div class="readings-list">
+				{{ .Inner }}
+			</div>
+		</div>
+	</label>	
+</div>

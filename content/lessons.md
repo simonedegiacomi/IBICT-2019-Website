@@ -19,7 +19,7 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 6 - Business Modelling"
+		title="6 - Business Modelling"
 		date="21 October 2019"
 		slides="slides/06-[IBICT2019]-Business-Modelling.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561033&cid=B85F9287B2607C74"
@@ -29,7 +29,7 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 5 - Organizations"
+		title="5 - Organizations"
 		date="16 October 2019"
 		georgiana-notes="notes/Bud_IBICT_16-10.pdf"
 		slides="slides/05-[IBICT2019]-Organizations.pdf"
@@ -38,7 +38,7 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 4 - Technology Entrepreneurship"
+		title="4 - Technology Entrepreneurship"
 		date="14 October 2019"
 		georgiana-notes="notes/Bud_IBICT_14-10.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560870&cid=B85F9287B2607C74"
@@ -47,7 +47,7 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 3 - Innovation Skills"
+		title="3 - Innovation Skills"
 		date="9 October 2019"
 		federico-notes="notes/federico_10_09.pdf"
 		georgiana-notes="notes/Bud_IBICT_09-10.pdf"
@@ -57,7 +57,7 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 2 - Introduction to Battles"
+		title="2 - Introduction to Battles"
 		date="7 October 2019"
 		slides="slides/02-Introduction-to-Battles.pdf"
 		georgiana-notes="notes/Bud_IBICT_L3-L1_as_notekeeper.pdf"
@@ -67,13 +67,13 @@ weight: 1
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 1 - Introduction and Roles"
+		title="1 - Introduction and Roles"
 		date="25 Semptember 2019"
 		slides="slides/01-Introduction-and-roles.pdf" >}}
 {{</ lesson >}}
 
 {{< lesson 
-		title="Lesson 0 - Welcome"
+		title="0 - Welcome"
 		date="18 September 2019"
 		slides="slides/00-Welcome.pdf" >}}
 {{</ lesson >}}

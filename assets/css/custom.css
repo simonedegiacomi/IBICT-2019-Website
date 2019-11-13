@@ -7,6 +7,10 @@
 	cursor: pointer;
 }
 
+.hamburger__toggle__icon img {
+	width: 1.5em;
+}
+
 li.hamburger__items__item {
 	margin-left: 1em;
 }
@@ -128,6 +132,13 @@ div.header-and-links {
 	color: white;
 }
 
+div.header-and-links img {
+	width: 1em;
+	display: inline;
+	margin-right: .5em;
+	transition: transform .5s;
+}
+
 div.header-and-links > h5 {
 	font-size: 1em;
 	background-color: #7373FF;
@@ -143,11 +154,27 @@ div.header-and-links > h5 {
 
 div.readings-list {
 	padding: .5em;
-	display: none;
+	max-height: 0;
+	transition: all 0.5s ease-in-out;
+	overflow-y: hidden;
 }
+
+div.readings-list > ul {
+	list-style: disc;
+	margin-left: 1.5em;
+}
+
+div.readings-list > li {
+	color: white;
+}
+
 
 input:checked ~ div.header-and-links {
 	background-color: #9191F9;
+}
+
+input:checked ~ div.header-and-links img {
+	transform: rotate(90deg);
 }
 
 .readings.mandatory input:checked ~ div.header-and-links {
@@ -155,12 +182,19 @@ input:checked ~ div.header-and-links {
 }
 
 input:checked ~ div.header-and-links div.readings-list {
-	display: block;
+	height: auto;
+	max-height: 10em;
 }
 
-div.readings-list > a {
+div.readings-list a {
 	color: white;
 }
+
+div.readings-list a:hover {
+	text-decoration: underline;
+}
+
+
 
 /* End of lesson short code */
 

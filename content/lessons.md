@@ -16,6 +16,11 @@ weight: 1
 		federico-notes="notes/federico_10_30.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561150&cid=B85F9287B2607C74"
 		video="https://www.youtube.com/watch?v=XGdEzkyAA4k" >}}
+	{{< lesson-readings mandatory >}}
+    	{{< lesson-reading 
+      		title="Simon — From substantive to procedural rationality" 
+      		file="mandatory/07 Simon — From substantive to procedural rationality.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}
 
 {{< lesson 
@@ -35,6 +40,11 @@ weight: 1
 		slides="slides/05-[IBICT2019]-Organizations.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560932&cid=B85F9287B2607C74"
 		federico-notes="notes/federico_10_16.pdf" >}}
+	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="March — Garbage Can Decisions" 
+      		file="suggested/05 March — Garbage Can Decisions.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}
 
 {{< lesson 
@@ -54,6 +64,11 @@ weight: 1
 		video="https://www.youtube.com/watch?v=p41UKuKwt1o"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560869&cid=B85F9287B2607C74"
 		slides="slides/03-[IEB-IBICT2019]-Innovation-Skills.pdf" >}}
+	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="March — Exploration-driven and Exploitation-driven Learning" 
+      		file="suggested/03 Kuhn — Scientific Revolutions as Radical Innovations.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}
 
 {{< lesson 
@@ -64,6 +79,19 @@ weight: 1
 		federico-notes="notes/federico_10_07.pdf"
 		video="https://www.youtube.com/watch?v=GAPFpCKG7do#action=share"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560868&cid=B85F9287B2607C74" >}}
+	{{< lesson-readings mandatory >}}
+    	{{< lesson-reading 
+      		title="Bonifacio — Battles Methodology" 
+      		file="mandatory/02 Bonifacio — Battles Methodology.pdf" >}}
+    	{{< lesson-reading 
+      		title="Latour — Science in Action" 
+      		file="mandatory/02 Latour — Science in Action.pdf" >}}
+  	{{</ lesson-readings >}}
+	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="March — Exploration-driven and Exploitation-driven Learning" 
+      		file="suggested/02 March — Exploration-driven and Exploitation-driven Learning.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}
 
 {{< lesson 

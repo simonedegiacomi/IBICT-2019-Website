@@ -3,6 +3,7 @@
 		<input type="checkbox" hidden>
 		<div class="header-and-links">
 			<h5>
+				<img src="{{ $.Site.BaseURL }}icons/arrow-right.svg"/>
 				{{ if eq (.Get 0) "mandatory" }}
 				Mandatory
 				{{ else }}
@@ -12,7 +13,9 @@
 			</h5>
 
 			<div class="readings-list">
-				{{ .Inner }}
+				<ul>
+					{{ .Inner }}
+				</ul>
 			</div>
 		</div>
 	</label>	

@@ -17,6 +17,19 @@ weight: 1
 {{< lesson
 		title="8"
 		date="" >}}
+	{{< lesson-readings mandatory >}}
+    	{{< lesson-reading 
+      		title="Latour — Missing Masses" 
+      		file="mandatory/08 Latour — Missing Masses.pdf" >}}
+    	{{< lesson-reading 
+      		title="Zuckerman — QAnon and the Unreal" 
+      		file="mandatory/08 Zuckerman — QAnon and the Unreal.pdf" >}}
+  	{{</ lesson-readings >}}
+  	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="Collins — Post-Truth in Science and Technology Studies" 
+      		file="suggested/08 Collins — Post-Truth in Science and Technology Studies.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}
 
 {{< lesson

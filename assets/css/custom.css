@@ -265,6 +265,11 @@ div.bottom-footer {
 	padding: 1em;
 }
 
+div.latest-announcements {
+	max-height: 400px;
+	overflow-y: auto;
+}
+
 div.latest-announcements h1 {
 	display: none;
 }

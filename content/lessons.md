@@ -9,6 +9,17 @@ weight: 1
 # Lessons
 
 {{< lesson
+		title="9 - Venture Financing"
+		slides="slides/09-[IBICT2019]-VentureFinancing.pdf"
+		date="18 November 2019" >}}
+{{</ lesson >}}
+
+{{< lesson
+		title="8"
+		date="" >}}
+{{</ lesson >}}
+
+{{< lesson
 		title="7 - Epistemology of CS"
 		date="30 October 2019"
 		slides="slides/07-[IBICT2019]-Epistemology-of-CS.pdf"

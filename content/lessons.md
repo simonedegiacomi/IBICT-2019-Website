@@ -9,14 +9,22 @@ weight: 1
 # Lessons
 
 {{< lesson
+		title="10 - Ethics"
+		date="25 November 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561541&cid=B85F9287B2607C74" >}}
+{{</ lesson >}}	
+
+{{< lesson
 		title="9 - Venture Financing"
 		slides="slides/09-[IBICT2019]-VentureFinancing.pdf"
-		date="18 November 2019" >}}
+		date="18 November 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561484&cid=B85F9287B2607C74" >}}
 {{</ lesson >}}
 
 {{< lesson
-		title="8"
-		date="" >}}
+		title="8 - Beyond Uncertainty"
+		date=""
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561483&cid=B85F9287B2607C74" >}}
 	{{< lesson-readings mandatory >}}
     	{{< lesson-reading 
       		title="Latour — Missing Masses" 

@@ -9,6 +9,15 @@ weight: 2
 # Battles
 
 {{< battle 
+	number="3"
+	first-team="Revolut"
+	second-team="UniCredit"
+	title="Revolut vs UniCredit"
+	date="20 November 2019"
+	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561482&cid=B85F9287B2607C74"
+	>}}
+
+{{< battle 
 	number="2"
 	first-team="Google"
 	second-team="IBM"

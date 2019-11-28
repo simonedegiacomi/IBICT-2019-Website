@@ -4,8 +4,10 @@
 	<div class="battle-header">
 		{{ $coverPath := printf "battle_covers/%s.jpg" (.Get "number") }}
 		{{ $cover := resources.Get $coverPath }}
-		{{ $resizedCover := $cover.Resize "800x" }} 
-		<img src="{{ $resizedCover.RelPermalink }}"/>
+		{{ if $cover }}
+			{{ $resizedCover := $cover.Resize "800x" }} 
+			<img src="{{ $resizedCover.RelPermalink }}" alt="battle cover"/>
+		{{ end }}
 	</div>
 
 	<h2>Battle {{ .Get "number" }}</h2>
@@ -35,5 +37,8 @@
 		{{ if .Get "video" }}
 			<a target="_blank" href="{{ .Get `video` }}">Video</a>
 		{{ end }}
+	</div>
+	<div class="readings-container">
+		{{ .Inner }}
 	</div>
 </div>

@@ -23,8 +23,9 @@ weight: 1
 
 {{< lesson
 		title="8 - Beyond Uncertainty"
-		date=""
-		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561483&cid=B85F9287B2607C74" >}}
+		date="11 November 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561483&cid=B85F9287B2607C74"
+		video="https://www.youtube.com/watch?v=GXRbQzyASmA" >}}
 	{{< lesson-readings mandatory >}}
     	{{< lesson-reading 
       		title="Latour — Missing Masses" 

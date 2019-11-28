@@ -1,7 +1,14 @@
 <div class="battle">
 	{{ $battleResources := printf "%sbattles/%s/" ($.Site.BaseURL) (.Get "number") }}
 
-	<h2>Battle {{ .Get "number" }} - {{ .Get "title" }}</h2>
+	<div class="battle-header">
+		{{ $coverPath := printf "battle_covers/%s.jpg" (.Get "number") }}
+		{{ $cover := resources.Get $coverPath }}
+		{{ $resizedCover := $cover.Resize "800x" }} 
+		<img src="{{ $resizedCover.RelPermalink }}"/>
+	</div>
+
+	<h2>Battle {{ .Get "number" }}</h2>
 	<span class="date">{{ .Get "date" }}</span>
 	<p>{{ .Get "description" }}</p>
 	<div class="battle-links">

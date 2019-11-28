@@ -53,20 +53,22 @@ div.battle {
 	border-radius: 10px;
 }
 
+
+.post__body {
+    margin: 1.75rem 20% .75rem;
+}
+
+
 @media only screen and (max-width: 576px) {
 	main.post__body {
-		margin: 0;
+		margin: 1em;
 	}
 }
 
 @media only screen and (max-width:1024px) {
  	.post__body {
-  		margin: 0;
+  		margin: 1em;
 	}
-}
-
-.post__body {
-    margin: 1.75rem 10% .75rem;
 }
 
 div.lesson:last-child,
@@ -194,6 +196,20 @@ div.readings-list a:hover {
 	text-decoration: underline;
 }
 
+
+div.battle {
+	display: flex;
+	flex-direction: column;
+}
+
+div.battle-header {
+	margin: -1em;
+	margin-bottom: 0;
+}
+
+div.battle-header img {
+	width: 100%;
+}
 
 
 /* End of lesson short code */

@@ -51,6 +51,7 @@ div.battle {
 	padding: 1em;
 	box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.25);
 	border-radius: 10px;
+	overflow: hidden;
 }
 
 

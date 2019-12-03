@@ -15,11 +15,11 @@
 	<p>{{ .Get "description" }}</p>
 	<div class="battle-links">
 		{{ if .Get "first-team-slides" }}
-			<a target="_blank" href="{{$battleResources}}{{ .Get `first-team-slides` }}">{{ .Get "first-team" }}</a>
+			<a target="_blank" href="{{$battleResources}}{{ .Get `first-team` }}_slides.pdf">{{ .Get "first-team" }}</a>
 		{{ end }}
 
 		{{ if .Get "second-team-slides" }}
-			<a target="_blank" href="{{$battleResources}}{{ .Get `second-team-slides` }}">{{ .Get "second-team" }}</a>
+			<a target="_blank" href="{{$battleResources}}{{ .Get `second-team` }}_slides.pdf">{{ .Get "second-team" }}</a>
 		{{ end }}
 
 		{{ if .Get "photos" }}
@@ -27,11 +27,15 @@
 		{{ end }}
 
 		{{ if .Get "federico-notes" }}
-			<a target="_blank" href="{{$battleResources}}{{ .Get `federico-notes` }}">Federico's Notes</a>
+			<a target="_blank" href="{{$battleResources}}Federico_notes.pdf">Federico's Notes</a>
 		{{ end }}
 
 		{{ if .Get "georgiana-notes" }}
-			<a target="_blank" href="{{$battleResources}}{{ .Get `georgiana-notes` }}">Georgiana's Notes</a>
+			<a target="_blank" href="{{$battleResources}}Bud_notes.pdf">Georgiana's Notes</a>
+		{{ end }}
+
+		{{ if .Get "guest-notekeeper" }}
+			<a target="_blank" href="{{$battleResources}}{{.Get `guest-notekeeper`}}_notes.pdf">{{.Get `guest-notekeeper`}}'s Notes</a>
 		{{ end }}
 
 		{{ if .Get "video" }}

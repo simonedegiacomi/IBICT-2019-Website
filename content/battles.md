@@ -8,11 +8,22 @@ weight: 2
 
 # Battles
 
+
+{{< battle 
+		number="5"
+		first-team="Proactive"
+		second-team="Reactive"
+		date="2 December 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561573&cid=B85F9287B2607C74"
+	>}}
+{{</ battle >}}
+
 {{< battle 
 		number="4"
 		first-team="Sustainable"
 		second-team="Unsustainable"
 		date="27 November 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561572&cid=B85F9287B2607C74"
 	>}}
   	{{< lesson-readings suggested >}}
     	{{< lesson-reading 
@@ -26,7 +37,8 @@ weight: 2
 		first-team="Revolut"
 		second-team="UniCredit"
 		date="20 November 2019"
-		second-team-slides="Unicredit_slides.pdf"
+		second-team-slides="true"
+		guest-notekeeper="Angelica"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561482&cid=B85F9287B2607C74"
 	>}}
 {{</ battle >}}
@@ -35,10 +47,11 @@ weight: 2
 	number="2"
 	first-team="Google"
 	second-team="IBM"
-	date="5 November 2019"
-	first-team-slides="Google_slides.pdf"
-	second-team-slides="IBM_slides.pdf"
-	federico-notes="Federico_notes.pdf"
+	date="4 November 2019"
+	first-team-slides="true"
+	second-team-slides="true"
+	federico-notes="true"
+	georgiana-notes="true"
 	video="https://www.youtube.com/watch?v=aWFcdgAzrkg"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561198&cid=B85F9287B2607C74"
 	>}}
@@ -49,11 +62,11 @@ weight: 2
 	first-team="Apple"
 	second-team="Samsung"
 	date="28 October 2019"
-	first-team-slides="Apple_slides.pdf"
-	second-team-slides="Samsung_slides.pdf"
+	first-team-slides="true"
+	second-team-slides="true"
+	georgiana-notes="true"
+	federico-notes="true"
 	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561072&cid=B85F9287B2607C74"
-	georgiana-notes="Bud_notes.pdf"
-	federico-notes="Federico_notes.pdf"
 	video="https://www.youtube.com/watch?v=Yt0bi2gTDak"
 	>}}
 {{</ battle >}}

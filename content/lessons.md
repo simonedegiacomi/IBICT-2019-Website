@@ -19,7 +19,8 @@ weight: 1
 		slides="slides/09-[IBICT2019]-VentureFinancing.pdf"
 		date="18 November 2019"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561484&cid=B85F9287B2607C74"
-		federico-notes="notes/federico_11_18.pdf" >}}
+		federico-notes="notes/federico_11_18.pdf"
+		video="https://www.youtube.com/watch?v=oh9HUzRsCX0" >}}
 {{</ lesson >}}
 
 {{< lesson

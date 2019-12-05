@@ -20,6 +20,7 @@ weight: 1
 		date="18 November 2019"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561484&cid=B85F9287B2607C74"
 		federico-notes="notes/federico_11_18.pdf"
+		georgiana-notes="notes/Bud_IBICT_18_11.pdf"
 		video="https://www.youtube.com/watch?v=oh9HUzRsCX0" >}}
 {{</ lesson >}}
 
@@ -28,7 +29,8 @@ weight: 1
 		date="11 November 2019"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561483&cid=B85F9287B2607C74"
 		video="https://www.youtube.com/watch?v=GXRbQzyASmA"
-		federico-notes="notes/federico_11_11.pdf" >}}
+		federico-notes="notes/federico_11_11.pdf"
+		georgiana-notes="notes/Bud_IBICT_11_11.pdf" >}}
 	{{< lesson-readings mandatory >}}
     	{{< lesson-reading 
       		title="Latour — Missing Masses" 

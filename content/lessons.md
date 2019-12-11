@@ -8,6 +8,13 @@ weight: 1
 
 # Lessons
 
+
+{{< lesson
+		title="11 - Venture Financing"
+		slides="slides/11-[IBICT2019]-FinancialPlanning.pdf"
+		date="11 December 2019" >}}
+{{</ lesson >}}
+
 {{< lesson
 		title="10 - Ethics"
 		date="25 November 2019"

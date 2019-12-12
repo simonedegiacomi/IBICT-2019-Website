@@ -10,7 +10,7 @@ weight: 1
 
 
 {{< lesson
-		title="11 - Venture Financing"
+		title="11 - Financial Planning"
 		slides="slides/11-[IBICT2019]-FinancialPlanning.pdf"
 		date="11 December 2019" >}}
 {{</ lesson >}}

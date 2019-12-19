@@ -12,13 +12,6 @@ weight: 5
 
 {{< faq-slides >}}
 
-{{< faq
-	question="Where are the slides shown during the Q&A " >}}
-
-    For any doubts/questions/critics contact the <a href="mailto:kesolga.greuter@studenti.unitn.it">Housekeeper (Kes Greuter)</a> and for problems with the website contact the <a href="mailto:simone.degiacomi@studenti.unitn.it">Webmaster (Simone Degiacomi)</a>.
-
-{{</ faq >}}
-
 
 {{< faq
 	question="How do I ask a question?" >}}
@@ -50,7 +43,7 @@ You'll be asked at least one question for each person of the jury. The jury will
 
 {{< faq question="Do I need to read the mandatory readings to pass the exam?" >}}
 
-The content of the questions is briefly specified in the <a href="exam">exam page</a>. Moreover, you can find examples of the questions in the Exam Q&A slides (link on top of this page).
+The content of the questions is briefly specified in the <a href="../exam">exam page</a>. Moreover, you can find examples of the questions in the Exam Q&A slides (link on top of this page).
 
 {{</ faq >}}
 

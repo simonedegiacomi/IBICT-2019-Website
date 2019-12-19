@@ -1,0 +1,10 @@
+<div class="faq">
+	{{ with .Get "tag" }}<span class="tag">{{ . }}</span>{{ end }}
+	<h3 class="question">
+		{{ .Get "question" }}
+	</h3>
+	<p class="answer">
+		{{ .Inner }}
+	</p>
+</div>
+

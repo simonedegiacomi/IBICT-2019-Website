@@ -45,7 +45,9 @@ main.post__body > h1 {
 
 div.lesson,
 div.announcement,
-div.battle {
+div.battle,
+div.faq-slides,
+div.faq {
 	margin: 1em;
 	margin-bottom: 2em;
 	padding: 1em;
@@ -85,7 +87,8 @@ div.battle-links {
 }
 
 div.lesson-links > a,
-div.battle-links > a {
+div.battle-links > a,
+div.faq-slides > a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -102,6 +105,8 @@ div.battle-links > a {
 	margin-bottom: .5em;
 	border-radius: 5px;
 }
+
+
 
 div.announcement span.date,
 div.lesson span.date,
@@ -402,3 +407,42 @@ div.points-explaining p.not-attending-oral-exam{
 }
 
 /* End of exam points */
+
+/* Start of FAQ */
+
+div.faq-slides {
+	margin-bottom: 5em;
+	padding: 2em;
+}
+
+div.faq-slides > a {
+	display: inline;
+}
+
+div.faq {
+	margin-bottom: 3em;
+}
+
+div.faq h3.question {
+	color: rgba(0, 0, 0, 0.75);
+	font-size: 1.3em;
+	font-weight: 600;
+	margin-bottom: 1em;
+}
+
+div.faq p.answer {
+	text-align: right;
+}
+
+div.faq span.tag {
+	color: black;
+	background-color: #48BC1D;
+	white-space: nowrap;
+	font-size: .75em;
+	font-weight: normal;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+
+/* End of FAQ */

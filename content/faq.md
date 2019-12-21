@@ -10,14 +10,17 @@ menu: main
 weight: 5
 ---
 
-{{< faq-slides >}}
-
 
 {{< faq
 	question="How do I ask a question?" >}}
 
     For any doubts/questions/critics contact the <a href="mailto:kesolga.greuter@studenti.unitn.it">Housekeeper (Kes Greuter)</a> and for problems with the website contact the <a href="mailto:simone.degiacomi@studenti.unitn.it">Webmaster (Simone Degiacomi)</a>.
 
+{{</ faq >}}
+
+{{< faq
+    question="Where do I find the slides, notes or photos of the Exam Q&A class?">}}
+    You can find the slides, notes and photos of the class dedicated to exam questions on the "Lessons" section of the website.
 {{</ faq >}}
 
 

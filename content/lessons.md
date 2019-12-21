@@ -8,11 +8,20 @@ weight: 1
 
 # Lessons
 
+{{< lesson
+		title="Exam Q&A"
+		slides="slides/[IEB-IBICT2019]-Exam-Q&A.pdf"
+		date="18 December 2019"
+		georgiana-notes="notes/Bud_IBICT_18-12.pdf"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562108&cid=B85F9287B2607C74" >}}
+{{</ lesson >}}
+
 
 {{< lesson
 		title="11 - Financial Planning"
 		slides="slides/11-[IBICT2019]-FinancialPlanning.pdf"
-		date="11 December 2019" >}}
+		date="11 December 2019"
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562050&cid=B85F9287B2607C74" >}}
 {{</ lesson >}}
 
 {{< lesson

@@ -8,6 +8,14 @@ weight: 2
 
 # Battles
 
+{{< battle
+	number="6"
+	date="16 December 2019"
+	first-team="Economic Driven"
+	second-team="Impact Driven"
+	photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562061&cid=B85F9287B2607C74"
+	>}}
+{{</ battle >}}
 
 {{< battle 
 		number="5"

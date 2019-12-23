@@ -21,14 +21,16 @@ weight: 1
 		title="11 - Financial Planning"
 		slides="slides/11-[IBICT2019]-FinancialPlanning.pdf"
 		date="11 December 2019"
-		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562050&cid=B85F9287B2607C74" >}}
+		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562050&cid=B85F9287B2607C74"
+		georgiana-notes="notes/Bud_IBICT_11-12.pdf" >}}
 {{</ lesson >}}
 
 {{< lesson
 		title="10 - Ethics"
 		date="25 November 2019"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561541&cid=B85F9287B2607C74"
-		video="https://www.youtube.com/watch?v=5xTVP0y6FOQ" >}}
+		video="https://www.youtube.com/watch?v=5xTVP0y6FOQ"
+		georgiana-notes="notes/Bud_IBICT_25-11.pdf" >}}
 {{</ lesson >}}	
 
 {{< lesson

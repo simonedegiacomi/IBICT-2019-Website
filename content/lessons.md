@@ -127,7 +127,7 @@ weight: 1
 		slides="slides/03-[IEB-IBICT2019]-Innovation-Skills.pdf" >}}
 	{{< lesson-readings suggested >}}
     	{{< lesson-reading 
-      		title="March — Exploration-driven and Exploitation-driven Learning" 
+      		title="Kuhn — Scientific Revolutions as Radical Innovations" 
       		file="suggested/03 Kuhn — Scientific Revolutions as Radical Innovations.pdf" >}}
   	{{</ lesson-readings >}}
 {{</ lesson >}}

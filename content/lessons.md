@@ -24,7 +24,8 @@ weight: 1
 		date="11 December 2019"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21562050&cid=B85F9287B2607C74"
 		federico-notes="notes/federico_12_11.pdf"
-		georgiana-notes="notes/Bud_IBICT_11-12.pdf" >}}
+		georgiana-notes="notes/Bud_IBICT_11-12.pdf"
+		video="https://www.youtube.com/watch?v=DFpwg8QxchM" >}}
 {{</ lesson >}}
 
 {{< lesson
@@ -100,7 +101,8 @@ weight: 1
 		georgiana-notes="notes/Bud_IBICT_16-10.pdf"
 		slides="slides/05-[IBICT2019]-Organizations.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560932&cid=B85F9287B2607C74"
-		federico-notes="notes/federico_10_16.pdf" >}}
+		federico-notes="notes/federico_10_16.pdf"
+		video="https://www.youtube.com/watch?v=Psntdv_1A7w" >}}
 	{{< lesson-readings suggested >}}
     	{{< lesson-reading 
       		title="March — Garbage Can Decisions" 
@@ -114,7 +116,8 @@ weight: 1
 		georgiana-notes="notes/Bud_IBICT_14-10.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21560870&cid=B85F9287B2607C74"
 		slides="slides/04-[IEB-IBICT2019]-Tech-Entrepreneurship.pdf"
-		federico-notes="notes/federico_10_14.pdf" >}}
+		federico-notes="notes/federico_10_14.pdf"
+		video="https://www.youtube.com/watch?v=h8b_GTZd2Ek" >}}
 {{</ lesson >}}
 
 {{< lesson 

@@ -31,6 +31,7 @@ weight: 1
 {{< lesson
 		title="10 - Ethics"
 		date="25 November 2019"
+		slides="slides/10-[IEB-IBICT2019]-Ethics-and-Social-Innovation.pdf"
 		photos="https://onedrive.live.com/?authkey=%21AFbhf0BoFQKj0wE&id=B85F9287B2607C74%21561541&cid=B85F9287B2607C74"
 		video="https://www.youtube.com/watch?v=5xTVP0y6FOQ"
 		federico-notes="notes/federico_11_25.pdf"

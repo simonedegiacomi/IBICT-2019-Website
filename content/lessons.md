@@ -36,6 +36,18 @@ weight: 1
 		video="https://www.youtube.com/watch?v=5xTVP0y6FOQ"
 		federico-notes="notes/federico_11_25.pdf"
 		georgiana-notes="notes/Bud_IBICT_25-11.pdf" >}}
+
+	{{< lesson-readings mandatory >}}
+    	{{< lesson-reading 
+      		title="Bonifacio — Models of Social Innovation" 
+      		file="mandatory/10 Bonifacio — Models of Social Innovation.pdf" >}}
+  	{{</ lesson-readings >}}
+
+	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="Operto — Ethics in Autonomous Vehicles" 
+      		file="suggested/10 Operto — Ethics in Autonomous Vehicles.pdf" >}}
+  	{{</ lesson-readings >}}
 {{</ lesson >}}	
 
 {{< lesson
@@ -63,11 +75,15 @@ weight: 1
     	{{< lesson-reading 
       		title="Zuckerman — QAnon and the Unreal" 
       		file="mandatory/08 Zuckerman — QAnon and the Unreal.pdf" >}}
+		{{< lesson-reading 
+      		title="Lynch — On CS as a Trigger of Post-Truth" 
+      		file="mandatory/08 Lynch — On CS as a Trigger of Post-Truth.pdf" >}}
   	{{</ lesson-readings >}}
   	{{< lesson-readings suggested >}}
     	{{< lesson-reading 
       		title="Collins — Post-Truth in Science and Technology Studies" 
       		file="suggested/08 Collins — Post-Truth in Science and Technology Studies.pdf" >}}
+			  
   	{{</ lesson-readings >}}
 {{</ lesson >}}
 
@@ -84,6 +100,15 @@ weight: 1
       		title="Simon — From substantive to procedural rationality" 
       		file="mandatory/07 Simon — From substantive to procedural rationality.pdf" >}}
   	{{</ lesson-readings >}}
+
+
+	{{< lesson-readings suggested >}}
+    	{{< lesson-reading 
+      		title="Williamson — On Deterministic Markets" 
+      		file="suggested/07 Williamson — On Deterministic Markets.pdf" >}}
+  	{{</ lesson-readings >}}
+
+	  
 {{</ lesson >}}
 
 {{< lesson 
